@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Women\'s RIght</string>
+    <string name="crime_against_women">Crime against Women</string>
+    <string name="workplace_inequality">Workplace Inequality</string>
+    <string name="domestic_violence">Domestic Violence</string>
+
+    <string name="domestic_desciption">Domestic violence is a pattern of behavior that involves the use of physical, emotional, or sexual abuse to gain power and control over an intimate partner 1. It can take many forms, including physical, verbal, emotional, economic, religious, reproductive, financial abuse, or sexual abuse 1. Domestic violence can happen to anyone, but women tend to experience more severe forms of violence 12. \n \n
+
+In 2015, the United Kingdom’s Home Office widened the definition of domestic violence to include coercive control 1. Coercive control is a pattern of behavior that seeks to take away the victim’s liberty or freedom, strip away their sense of self, and make them feel intimidated, humiliated, or frightened 3. \n \n
+
+Domestic violence is a serious issue that affects millions of people worldwide. If you or someone you know is experiencing domestic violence, it is important to seek help. You can contact the National Domestic Violence Hotline at 1-800-799-SAFE (7233) for assistance 2.</string>
+
+    <string name="workplace_description">Gender inequality in the workplace is a pervasive issue that affects millions of people worldwide. Despite progress made in the past few decades, women still face significant barriers to equal representation and pay in the workplace 123. Women are often underrepresented in leadership roles and decision-making processes, which can lead to a lack of diversity and inclusivity in the workplace 1. \n \n
+
+According to a recent study, gender bias can lead to productivity losses of about $2.8 million a year 3. To address this issue, standardized interviews and skills-based assessments can be used to reduce gender bias in recruitment processes 3. \n \n
+
+It is important to note that gender inequality in the workplace is not just a women’s issue; it affects everyone. By promoting gender equality and diversity in the workplace, we can create a more inclusive and productive environment for all employees </string>
+
+
+ <string name="crime_description">Gender inequality in the workplace is a pervasive issue that affects millions of people worldwide. Despite progress made in the past few decades, women still face significant barriers to equal representation and pay in the workplace 123. Women are often underrepresented in leadership roles and decision-making processes, which can lead to a lack of diversity and inclusivity in the workplace 1. \n \n
+
+According to a recent study, gender bias can lead to productivity losses of about $2.8 million a year 3. To address this issue, standardized interviews and skills-based assessments can be used to reduce gender bias in recruitment processes 3. \n \n
+
+It is important to note that gender inequality in the workplace is not just a women’s issue; it affects everyone. By promoting gender equality and diversity in the workplace, we can create a more inclusive and productive environment for all employees 123.</string>
+
+</resources>
